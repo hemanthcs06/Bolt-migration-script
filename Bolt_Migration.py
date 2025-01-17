@@ -1,5 +1,5 @@
 ####### FILL THESE ##############
-config_hash = "COPY1_H:CUSTOMER_PROFILE:"
+config_hash = "H:CUSTOMER_PROFILE:"
 profileVersion = "ProfileVersion"
 
 # Source and Destination Redis server configuration
